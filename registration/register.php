@@ -222,21 +222,18 @@
                           CHIMERA , “An Endeavour To Think and Understand” , aims to provide a platform for the congregation of the entire medical fraternity of eastern India along with other major Universities embracing the whole country under one roof. It is beyond the dimensions of just an event it is a stage where idea meets reality
                         </p>
                         <ul class="footer_social">
-                            <li>
-                                <a href="#"><i class="ion-social-pinterest"></i></a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="ion-social-facebook"></i></a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="ion-social-twitter"></i></a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="ion-social-dribbble"></i></a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="ion-social-instagram"></i></a>
-                            </li>
+                          <li>
+                              <a href="https://www.youtube.com/channel/UC0VSP46zGOdN9Zfzqb7Blsg" target="_blank"><i class="ion-social-youtube"></i></a>
+                          </li>
+                          <li>
+                              <a href="https://www.facebook.com/Chimera.kiit/?ref=br_rs" target="_blank"><i class="ion-social-facebook"></i></a>
+                          </li>
+                          <li>
+                              <a href="https://twitter.com/Chimera_kiit" target="_blank"><i class="ion-social-twitter"></i></a>
+                          </li>
+                          <li>
+                              <a href="https://www.instagram.com/chimera_kiit/" target="_blank"><i class="ion-social-instagram"></i></a>
+                          </li>
                         </ul>
                     </div>
                 </div>
@@ -249,40 +246,7 @@
                             instagram
                         </h4>
                     </div>
-                    <div class="footer_box_body">
-                        <ul class="instagram_list">
-                            <li>
-                                <a href="#">
-                                    <img src="../assets/img/cleander/c1.png" alt="instagram">
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <img src="../assets/img/cleander/c2.png" alt="instagram">
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <img src="../assets/img/cleander/c3.png" alt="instagram">
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <img src="../assets/img/cleander/c3.png" alt="instagram">
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <img src="../assets/img/cleander/c2.png" alt="instagram">
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <img src="../assets/img/cleander/c1.png" alt="instagram">
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
+                  <div class='sk-instagram-feed' data-embed-id='15807'></div><script src='https://www.sociablekit.com/app/embed/instagram-feed/widget.js'></script>
                 </div>
             </div>
 
@@ -290,6 +254,13 @@
         </div>
     </div>
 </footer>
+
+<!--Go to top-->
+
+<a href="#" id="c-go-top" class="c-go-top">
+      <i class="fa fa-arrow-up fa-fw"></i>
+    </a>
+
 <div class="copyright_footer">
     <div class="container">
         <div class="row justify-content-center">

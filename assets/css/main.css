@@ -1,9 +1,4 @@
-/*
- * Evento -  Event html  Template
- * Build Date: jan 2018
- * Author: colorlib
- * Copyright (C) 2018 colorlib
- */
+
 /* ------------------------------------- */
 /* TABLE OF CONTENTS
 /* -------------------------------------
@@ -3165,3 +3160,31 @@ textarea.form-control {
 .accordion_card .card-body {
   font-size: 16px;
 }
+
+
+/**Go to top**/
+
+
+.c-go-top {
+  background: none repeat scroll 0 0 padding-box #1099dd;
+  bottom: 20px;
+  right: 0;
+  width: 40px;
+  height: 40px;
+  background: #111;
+  border-radius: 4px;
+  color: #fff;
+  display: none;
+  font-size: 12px;
+  padding: 10px;
+  position: fixed;
+  text-decoration: none;
+  z-index: 999; }
+
+.c-go-top:hover,
+.c-go-top:focus,
+.c-go-top:active,
+.c-go-top:visited {
+  color: #fff;
+  outline: 0;
+  text-decoration: none; }
